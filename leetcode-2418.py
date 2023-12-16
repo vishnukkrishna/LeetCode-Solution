@@ -1,3 +1,4 @@
+# 2418. Sort the People
 def sortPeople(names, heights):
     n = len(heights)
     for i in range(n - 1):
