@@ -1,3 +1,4 @@
+"question "
 def dest_city(paths):
     for i in paths:
         print(i)
