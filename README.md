@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Solutions-green" alt="LeetCode Solutions Badge">
+  <img src="https://img.shields.io/badge/LeetCode-Solutions-blue" alt="LeetCode Solutions Badge">
 </div>
 
 # Python - LeetCode Solutions Repository
