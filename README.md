@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/LeetCode-Solutions-green" alt="LeetCode Solutions Badge">
 </div>
 
-# LeetCode Solutions Repository
+# Python - LeetCode Solutions Repository
 
 Welcome to our collaborative LeetCode solutions repository! Here, we share solutions to various LeetCode problems contributed by talented individuals.
 
